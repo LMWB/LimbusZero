@@ -6,11 +6,12 @@ Custom Microcontroller Board based on STM32C0-Series
 ![top](/Images/LimbusZero3.png)
 
 # Features
-- STM32C031K6T6
+- STM32C031K6T6 Microcontroller
 - ST M24C01 I2C EEPROM
 - Power indicator LED
+- USB mini as power supply NO DATA!
 - User LED
-- 2.54mm Pin Header that fit on regular breadbords for rapid prototyping
+- 2.54mm Pin Headers that would fit on regular breadbords for rapid prototyping
 - debug / programming interface according to STLink that comes with most of STM32 Nucleo Boards
 
 # Todo
