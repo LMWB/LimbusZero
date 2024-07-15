@@ -4,6 +4,7 @@ Custom Microcontroller Board based on STM32C0-Series
 ![front](/Images/LimbusZero1.png)
 ![back](/Images/LimbusZero2.png)
 ![top](/Images/LimbusZero3.png)
+![schematics](/Images/LimbusZero.pdf)
 
 # Features
 - STM32C031K6T6 Microcontroller
