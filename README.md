@@ -9,6 +9,8 @@ Custom Microcontroller Board based on STM32C0-Series
 # Features
 - STM32C031K6T6 Microcontroller
 - ST M24C01 I2C EEPROM
+- no crystal oscillator since this board uses STM32 build in 48MHz HSI48RC clock generator
+    - accuracy needs to be discussed but since software is working fine I guess there will be no dramatic issus 
 - Power indicator LED
 - USB mini as power supply NO DATA!
 - User LED
