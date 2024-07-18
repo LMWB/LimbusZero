@@ -15,7 +15,7 @@ https://github.com/LMWB/LimbusZero/
 - Ein Satz Jumper Kabel verschiedener Länge
  
 # Teil I: Spannungsversorgung
-Schnapp dir das Breadbord (weisses plastik Brett mit vielen Löscher) und steck die Adapter Platine für das Netzteil drauf. Jetzt noch das dicke schwarze Netzteil an die Steckdose steck und mit der Adapterplatine verbinden, einschalten und schon hast du Saft auf der Mühle.
+Schnapp dir das Breadbord (weisses plastik Brett mit vielen Löchern) und steck die Adapter Platine für das Netzteil drauf. Jetzt noch das dicke schwarze Netzteil an die Steckdose steck und mit der Adapterplatine verbinden, einschalten und schon hast du Saft auf der Mühle.
 
 Bitte schau genau, dass die Polarität stimmt. Plus ist Rot und Minus ist blau.
 
@@ -99,7 +99,17 @@ Der LimbusZero hat 6 Betriebsmodi. Lass sie uns herausfinde. Doch zuerst muessen
 - Verbinde den vor-vor-letzten Pin mit dem IncA-Pin
 - Verbinde den vor-letzten Pin mit dem IncB-Pin
 
-Puh das war anstrengend. Aber die Mühe hat sich gelohnt. Jetzt können wir (fast) alles teste. Die 6 Modie heissen:
+- Verbind alle LED-Pins mit den 01 bis 09-Pins
+- bitte in korrekter Reihenfolge
+- LED1 -> 01
+- LED2 -> 02
+- ...
+- LED8 -> 08
+Puh das war anstrengend. Aber die Mühe hat sich gelohnt. Jetzt können wir (fast) alles teste. Es sollte jetzt so ungefähr so bei dir aussehen.
+
+
+
+Die 6 Modie heissen:
 - eINCREMENT
 - eGAUGE
 - eKNIGHTRIDER
