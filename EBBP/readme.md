@@ -10,6 +10,8 @@ https://github.com/LMWB/LimbusZero/
 - LED mit Vorwiderstand
 - BreadboardIO Platine
 - LimbusZero Microcontroller Platine
+- RGB-LED Ring
+- RGB-LED Streifen
 - Ein Satz Jumper Kabel verschiedener Länge
  
 # Teil I: Spannungsversorgung
@@ -74,24 +76,58 @@ Stell die Spannungsversorgung nun auf eine ander Position. Was passiert jetzt? _
 ## Puls Drehgeber
 Ganz unten auf der blauen Platine ist noch ein Drehnuppsi. Und wieder, du ahnst es, brauchen wir ein Jumper Kabel. Das steckst du mit der einen Seite .... *schon wieder auf eine LED voll langweilig* ja genau aber warts ab!
 
-Das andere Ende steckst du bitte 
+Das andere Ende steckst du bitte auf den dritten Pin von unten, also der vor-vor-letzte. Jetzt am Nuppsi drehen und ganz genau beobachten was passiert ___________________________________________
 
 # Teil IV: LimbusZero Micrcontroller Board
-Für die nun anstehende testreihe, brauchst du das breadboardIO und die lilane Controller Platine. Das LimbusZero Board ist dein neuer mini Computer 💻, ein so genannter Microcontroller.
-Diese kleinen cleveren elektronischen Bauteile sind heutzutage fast überall verbaut. Man kann lustige Sachen mit ihnen machen wie du gleich fstestellen wirst.
+Für die nun anstehende Versuchsreihe, brauchst du das BreadboardIO und die lilane Controller Platine. Das LimbusZero-Board ist dein neuer mini Computer 💻, ein so genannter Microcontroller.
+Diese kleinen, cleveren, elektronischen Bauteile sind heutzutage fast überall verbaut. Man kann lustige Sachen mit ihnen machen wie du gleich fstestellen wirst.
 
-Aber fangen wir von Vorne an. Zu ersteinmal benötigt der mini Cumputer Säft 😄
+Aber fangen wir von Vorne an. Zu ersteinmal benötigt der mini Cumputer Säääääft 😄 
 
 ## Spannungsversorgung
+Platziere das LimbusZero Board irgendwo mittig auf dem Breadbord. Die Adapterplatine ist sicher noch angesteckt. Das linke Power-Rail bekommt 5V. Das rechte Power-Rail, auf dem das BreadbordIO steckt, bekommt 3V3. Jetzt verbindest du + (rot) mit dem Vin-Pin und - (blau) mit GND-Pin. Am besten du verwendest hier auch ein rotes und ein blaues Jumper Kabel. Hast du alles richtig gemacht leuchte eine grüne LED und der Herzschlag beginnt :heart_eyes: :heartbeat: 
 
 ## Heartbeet
 {sprich Hart Biet es bedeutet Herzschlag}
 
 Der LimbusZero hat eine rote LED und einen Heartbeat einprogrammiert, damit du weisst dass er läuft 🏃 auch wenn noch nix angeschlossen ist.
 
-
 ## Betriebsmodi
+Der LimbusZero hat 6 Betriebsmodi. Lass sie uns herausfinde. Doch zuerst muessen wir noch ein paar Strippen ziehen. 
+- Verbinde den Taster 1 mit dem B1-Pin.
+- Verbinde das Poti mit dem P-Pin
+- Verbinde den vor-vor-letzten Pin mit dem IncA-Pin
+- Verbinde den vor-letzten Pin mit dem IncB-Pin
 
-## RGB LED Ring
+Puh das war anstrengend. Aber die Mühe hat sich gelohnt. Jetzt können wir (fast) alles teste. Die 6 Modie heissen:
+- eINCREMENT
+- eGAUGE
+- eKNIGHTRIDER
+- eSNAKE
+- eLASTBLINK
+- eNEOPIXEL
+
+Wenn du jetzt den Taster 1 drückst wechselt der LimbusZero seine Betriebsmodi. Jeder Modus hat ein spannendes Feature dass du entweder mit dem Poti oder mit dem Drehnuppsi einstellen kannst.
+
+### Modus: Incremet
+Mit dem Drehnuppsi kannst du binär von 0 bis 255 zählen. 
+
+### Modus: Gauge (Tachometer)
+Schraubendrehe und Poti lassen die LEDs tanzen
+
+### Modus: Knightrider
+Kein Kommentar, wir alle kennen Kit! Aber der Drehnuppsi hat bstimmt auch was damit zu tun :sunglasses:
+
+### Modus: Snake
+Siehe Knightrider.
+
+### Modus: Lastblink
+Das letzte Muster der Schneckenspuhr wechselt ins negative hin und her.
+
+### Modus: NeoPixel
+Dafür brauchen wir ein extra Kapitel.
+
+## RGB LED 
 
 ## RGB LED Streifen
+
