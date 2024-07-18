@@ -107,7 +107,7 @@ Der LimbusZero hat 6 Betriebsmodi. Lass sie uns herausfinde. Doch zuerst muessen
 - LED8 -> 08
 Puh das war anstrengend. Aber die Mühe hat sich gelohnt. Jetzt können wir (fast) alles teste. Es sollte jetzt so ungefähr so bei dir aussehen.
 
-
+![Breadboard mit Limbus und BreadbordIO](../Images/LimbusZeroAndBreadboardIO.png)
 
 Die 6 Modie heissen:
 - eINCREMENT
@@ -138,6 +138,6 @@ Das letzte Muster der Schneckenspuhr wechselt ins negative hin und her.
 Dafür brauchen wir ein extra Kapitel.
 
 ## RGB LED 
-
+todo
 ## RGB LED Streifen
-
+todo
