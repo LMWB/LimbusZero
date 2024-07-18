@@ -23,7 +23,7 @@ Bitte schau genau, dass die Polarität stimmt. Plus ist Rot und Minus ist blau.
 Jetzt kommt das erste elektronische Bauteil für dein erstes Experiment. Gemeint ist die kleine LED mit Widerstand angelötet. Schau was passiert wenn du sie auf das Powerrail steckst. Also ein Beinchen auf den Roten und das andere auf den Blauen Kontakt.
 Passiert nix? Dann vertausche die Beinchen. 
 
-Die Adapterplatine hat zwei kleine gelbe Brucken. Sie entscheiden ob 5V oder 3.3V Spannung auf dem Powerrail links bzw. recht anliegen. Versuchs mal mit 3.3V und dann mit 5V.
+Die Adapterplatine hat zwei kleine gelbe Brücken. Sie entscheiden ob 5V oder 3.3V Spannung auf dem Powerrail links bzw. recht anliegen. Versuch mal die Brücke abzuziehen und auf eine ander Position zu stecken.
 
 Gibt es einen Unterschied? ______________________________
 
