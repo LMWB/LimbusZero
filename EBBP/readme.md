@@ -146,6 +146,8 @@ Um mit der Zaubere starten zu koennen, muessen wir ein letzten Mal Kabel ziehen 
 - Verbinde den Taster 3 mit dem B3-Pin
 - Verbinde den Taster 4 mit dem B4-Pin
 
+Ausserdem muss natuerlich der LED Ring noch angestoepselt werden. Der Ring hat drei Kabel angeloetet. Rot und Blau muss auf das Powerrail (ist egal ob 5V Seite oder 3.3V Seite). Das gelbe Kabel ist die Datenleitung und die muss auf den LimbusZero D-Pin.
+
 Dann die Spannung wieder einschalten und 5x auf den Taster 1 druecken (damit navigieren wir in den Modus 6). Hast du alles richtig verkabelt sollte der LED ring leuchten in einer der RGB-Farben. Mit den Taster 2,3 und vier kannst du die Farbe aendern und mit dem Drehnubbsi kannst du die Helligkeit der gerade angewaehlten Farbe anpassen. Wenn du zum Beispiel Rot ausgewaehlt hast und nochmal auf den Rot-Knopf drueckst, erhaeltst du das Mischergebnis! Versuch mal Gelb herzustellen!
 
 Gelb mischt man mit der Einstellung ____________________________________________
