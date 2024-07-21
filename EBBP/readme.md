@@ -138,6 +138,17 @@ Das letzte Muster der Schneckenspuhr wechselt ins negative hin und her.
 Dafür brauchen wir ein extra Kapitel.
 
 ## RGB LED 
-todo
+RGB steht fuer Rot, Gruen, Blau. Schau dir den Ring einmal genu an. Es sind 12 LED verloetet und jed dieser LEDs hat drei Farben die wir einzeln ansteuern koenne. Das coole dabei ist, man kann die Farben auch mischen und kann so jede Farbe der Welt selber zusammenbasteln.
+
+Um mit der Zaubere starten zu koennen, muessen wir ein letzten Mal Kabel ziehen aber vorher Spannung ausschalten bitte!
+
+- Verbinde den Taster 2 mit dem B2-Pin
+- Verbinde den Taster 3 mit dem B3-Pin
+- Verbinde den Taster 4 mit dem B4-Pin
+
+Dann die Spannung wieder einschalten und 5x auf den Taster 1 druecken (damit navigieren wir in den Modus 6). Hast du alles richtig verkabelt sollte der LED ring leuchten in einer der RGB-Farben. Mit den Taster 2,3 und vier kannst du die Farbe aendern und mit dem Drehnubbsi kannst du die Helligkeit der gerade angewaehlten Farbe anpassen. Wenn du zum Beispiel Rot ausgewaehlt hast und nochmal auf den Rot-Knopf drueckst, erhaeltst du das Mischergebnis! Versuch mal Gelb herzustellen!
+
+Gelb mischt man mit der Einstellung ____________________________________________
+
 ## RGB LED Streifen
-todo
+siehe RGB LED
