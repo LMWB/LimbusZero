@@ -138,17 +138,20 @@ Das letzte Muster der Schneckenspuhr wechselt ins negative hin und her.
 Dafür brauchen wir ein extra Kapitel.
 
 ## RGB LED 
-RGB steht fuer Rot, Gruen, Blau. Schau dir den Ring einmal genu an. Es sind 12 LED verloetet und jed dieser LEDs hat drei Farben die wir einzeln ansteuern koenne. Das coole dabei ist, man kann die Farben auch mischen und kann so jede Farbe der Welt selber zusammenbasteln.
+RGB steht für Rot, Grpn, Blau. Schau dir den Ring einmal genu an. Es sind 12 LED verlötet und jede dieser LEDs hat drei Farben die wir einzeln ansteuern koenne. Das coole dabei ist, man kann die Farben auch mischen und kann so jede Farbe der Welt selber zusammenbasteln.
 
-Um mit der Zaubere starten zu koennen, muessen wir ein letzten Mal Kabel ziehen aber vorher Spannung ausschalten bitte!
+Um mit der Zaubere starten zu können, müssen wir ein letzten Mal Kabel ziehen aber vorher Spannung ausschalten bitte!
 
 - Verbinde den Taster 2 mit dem B2-Pin
 - Verbinde den Taster 3 mit dem B3-Pin
 - Verbinde den Taster 4 mit dem B4-Pin
 
-Ausserdem muss natuerlich der LED Ring noch angestoepselt werden. Der Ring hat drei Kabel angeloetet. Rot und Blau muss auf das Powerrail (ist egal ob 5V Seite oder 3.3V Seite). Das gelbe Kabel ist die Datenleitung und die muss auf den LimbusZero D-Pin.
+Ausserdem muss natürlich der LED Ring noch angestöpselt werden. Der Ring hat drei Kabel angelötet. Rot und Blau muss auf das Powerrail (ist egal ob 5V Seite oder 3.3V Seite). Das gelbe Kabel ist die Datenleitung und die muss auf den LimbusZero D-Pin.
 
-Dann die Spannung wieder einschalten und 5x auf den Taster 1 druecken (damit navigieren wir in den Modus 6). Hast du alles richtig verkabelt sollte der LED ring leuchten in einer der RGB-Farben. Mit den Taster 2,3 und vier kannst du die Farbe aendern und mit dem Drehnubbsi kannst du die Helligkeit der gerade angewaehlten Farbe anpassen. Wenn du zum Beispiel Rot ausgewaehlt hast und nochmal auf den Rot-Knopf drueckst, erhaeltst du das Mischergebnis! Versuch mal Gelb herzustellen!
+Dann die Spannung wieder einschalten und 5x auf den Taster 1 drücken (damit navigieren wir in den Modus 6).
+Hast du alles richtig verkabelt sollte der LED-Ring in einer der RGB-Farben leuchten. Mit den Taster 2,3 und 4 kannst du die Farbe ändern und mit dem Drehnubbsi kannst du die Helligkeit der gerade angewählten Farbe anpassen.
+Wenn du zum Beispiel Rot ausgewaehlt hast und nochmal auf den Rot-Knopf drückst, erhältst du das Mischergebnis aus alles drei Farben!
+Versuch mal Gelb herzustellen!
 
 Gelb mischt man mit der Einstellung ____________________________________________
 
