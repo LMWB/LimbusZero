@@ -6,10 +6,10 @@ https://github.com/LMWB/LimbusZero/
 ## Inhalt
 - Breadboard
 - Netzteil
-- Adapter für Spannungsversorgung
+- Adapter für Spannungsversorgung (schwarz)
 - LED mit Vorwiderstand
-- BreadboardIO Platine
-- LimbusZero Microcontroller Platine
+- BreadboardIO Platine (blau)
+- LimbusZero Microcontroller Platine (lila)
 - RGB-LED Ring
 - RGB-LED Streifen
 - Ein Satz Jumper Kabel verschiedener Länge
