@@ -1,7 +1,7 @@
 # Emil's Birthday Breadboard Project 🤓 🛰️ :electron:
 25 Tolle Experimente mit Strom, Bits und Bytes
 
-https://github.com/LMWB/LimbusZero/
+https://github.com/LMWB/LimbusZero
 
 ## Inhalt
 - Breadboard
